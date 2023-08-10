@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Helker Hubbard 
-- 👀 I’m interested in Programing in C
-- 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on Educational Projects
 - 📫 How to reach me 21ISIC090@itspozarica.edu.mx
 
